@@ -15,7 +15,7 @@ people:
 - {name: 'Yao Ge', title: 'PhD student',type: 'Graduate Students', department: 'Brain Insitute', institution: 'Southeast University & Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences',  email: 'y.ge@siat.ac.cn', image: 'assets/img/geyao.jpg',description: 'Neuropixels, Animal behavior research' }
 - {name: 'Xinqi Li', title: 'MS student',type: 'Graduate Students', department: 'Brain Insitute', institution: 'University of Science and Technology of China & Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences',  email: '2010667442@qq.com', image: 'assets/img/lixinqi.jpg',description: 'Retinotopic mapping' }
 - {name: 'Jingxi Zhao', title: 'MS student',type: 'Graduate Students', department: 'Brain Insitute', institution: 'Macau University of Science and Technology & Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences',  email: 'jingxizhao0926@gmail.com', image: 'assets/img/zhaojingxi.jpg',description: 'Glaucoma and Brain Research' }
-
+- {name: 'Qin Wan', title: 'Research Assistant',type: 'Research Staff', department: 'Brain Insitute', institution: 'Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences',  email: 'qin.wan@siat.ac.cn', image: 'assets/img/wanqin.jpg', description: 'Neuroplasticity Research'}
 alumni:
 - {name: '*', title: '*',type: 'Principle Investigator',year: '*',position: '*',career: '*',department: 'Brain Insitute', institution: 'Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences', email: 'lm.tan@siat.ac.cn', image: 'assets/img/limingtan_half.jpg',description: 'Genetics, Plasticity and Vision'}
 
