@@ -21,11 +21,11 @@ index:
 - {name: 'Zhang KX, <strong>Tan L</strong>, Pellegrini M, Zipursky SL*, McEwen JM. Rapid Changes in the Translatome during the Conversion of Growth Cones to Synaptic Terminals. <strong><em>Cell Rep</em></strong>. 2016. 14(5):1258-71.', url: 'https://doi.org/10.1016/j.celrep.2015.12.102'}
 - {name: '<strong>Tan L#</strong>, Zhang KX#, Pecot MY, Nagarkar-Jaiswal S, Lee PT, Takemura SY, McEwen JM, Nern A, Xu S, Tadros W, Chen Z, Zinn K, Bellen HJ, Morey M*, Zipursky SL*. Ig Superfamily Ligand and Receptor Pairs Expressed in Synaptic Partners in Drosophila. <strong><em>Cell</em></strong>. 2015. 163(7):1756-69.', url: '/assets/pdf/Cell_2015.pdf'}
 
-Cortical Development:
+Cortical:
 - {name: 'Cadwell et al., Development and Arealization of the Cerebral Cortex, Neuron 2019', url: '/assets/pdf/Cadwell et al., Development and Arealization of the Cerebral Cortex, Neuron 2019.pdf'}
 - {name: 'OLeary and Sahara, Area Patterning of the Mammalian Cortex, Neuron 2007', url: '/assets/pdf/OLeary and Sahara, Area Patterning of the Mammalian Cortex, Neuron 2007.pdf'}
 
-Hypothalamus development and functions:
+Hypothalamus:
 - {name: 'Chen, Wu et al, Transcriptional conservation and evolutionary divergence of cell types across mammalian hypothalamus development, Developmental Cell 2025_s', url: '/assets/pdf/Chen, Wu et al, Transcriptional conservation and evolutionary divergence of cell types across mammalian hypothalamus development, Developmental Cell 2025_s.pdf'}
 - {name: 'Fong, Kurrasch, The structural and functional complexity of the integrative hypothalamus, Science 2023', url: '/assets/pdf/Fong, Kurrasch, The structural and functional complexity of the integrative hypothalamus, Science 2023.pdf'}
 - {name: 'Loos and Yeo, The genetics of obesity, from discovery to biology, Nature Reviews Genetics 2022', url: '/assets/pdf/Loos and Yeo, The genetics of obesity, from discovery to biology, Nature Reviews Genetics 2022.pdf'}
@@ -33,7 +33,7 @@ Hypothalamus development and functions:
 - {name: 'The hypothalamus review by Lowell', url: '/assets/pdf/The hypothalamus review by Lowell.pdf'}
 - {name: 'Zhuolei Jiao,Xiaohong Xu et al., nature neuroscience 2025 Projectome-based characterization of hypothalamic peptidergic neurons in male mice, Nature Neuroscience 2025', url: '/assets/pdf/Zhuolei Jiao,Xiaohong Xu et al., nature neuroscience 2025 Projectome-based characterization of hypothalamic peptidergic neurons in male mice, Nature Neuroscience 2025.pdf'}
 
-Neural Circuit Assembly:
+Neural:
 - {name: 'Heckman and Doe, Establishment and Maintenance of Neural Circuit Architechture, JN 2021', url: '/assets/pdf/Heckman and Doe, Establishment and Maintenance of Neural Circuit Architechture, JN 2021.pdf'}
 - {name: 'Kolodkin and Tessier-Lavigne, Mechanisms and Molecules of Neuronal Wiring, Cold Spring Harb Perspect Biol 2011', url: '/assets/pdf/Kolodkin and Tessier-Lavigne, Mechanisms and Molecules of Neuronal Wiring, Cold Spring Harb Perspect Biol 2011.pdf'}
 - {name: 'Sanes and Zipursky, Cell 2020 Synaptic Specificity,Recognition molecules,and assembly of neural circuits', url: '/assets/pdf/Sanes and Zipursky, Cell 2020 Synaptic Specificity,Recognition molecules,and assembly of neural circuits.pdf'}
@@ -42,11 +42,11 @@ Neural Circuit Assembly:
 - {name: 'Three systems of circuit formation- assembly, updating and tuning', url: '/assets/pdf/Three systems of circuit formation- assembly, updating and tuning.pdf'}
 - {name: 'Yogev and Shen, Cellular and Molecular Mechanisms of Synaptic Specificity. Annual Review of Cell and Developmental Biology 2014', url: '/assets/pdf/Yogev and Shen, Cellular and Molecular Mechanisms of Synaptic Specificity. Annual Review of Cell and Developmental Biology 2014.pdf'}
 
-Neuropsychiatric Disorders:
+Neuropsychiatric:
 - {name: 'McClellan and King, An evolutionary perspective on complex neuropsychiatric disease, Neuron 2023', url: '/assets/pdf/McClellan and King, An evolutionary perspective on complex neuropsychiatric disease, Neuron 2023.pdf'}
 - {name: 'Paus and Giedd, Why do many psychiatric disorders emerge during adolescence, Nature Reviews Neuroscience 2008', url: '/assets/pdf/Paus and Giedd, Why do many psychiatric disorders emerge during adolescence, Nature Reviews Neuroscience 2008.pdf'}
 
-Visual System Development, plasticity and Organization:
+Visual:
 - {name: 'Arcaro and Livingstone, A Whole-Brain Topographic Ontology, annurev-neuro 2024', url: '/assets/pdf/Arcaro and Livingstone, A Whole-Brain Topographic Ontology, annurev-neuro 2024.pdf'}
 - {name: 'Cang and Feldheim, developmental mechanisms of topographic map formation and alignment, Annu Rev Neurosci 2013', url: '/assets/pdf/Cang and Feldheim, developmental mechanisms of topographic map formation and alignment, Annu Rev Neurosci 2013.pdf'}
 - {name: 'Cheng, Butrus, Tan et al., Cell 2022', url: '/assets/pdf/Cheng, Butrus, Tan et al., Cell 2022.pdf'}
