@@ -23,15 +23,34 @@ index:
 
 Cortical Development:
 - {name: 'Cadwell et al., Development and Arealization of the Cerebral Cortex, Neuron 2019', url: '/assets/pdf/Cadwell et al., Development and Arealization of the Cerebral Cortex, Neuron 2019.pdf'}
+- {name: 'OLeary and Sahara, Area Patterning of the Mammalian Cortex, Neuron 2007', url: '/assets/pdf/OLeary and Sahara, Area Patterning of the Mammalian Cortex, Neuron 2007.pdf'}
 
 Hypothalamus development and functions:
-- {name: 'Zhou C, Gao X, <strong>Tan L*</strong>. Shaping Sight: Novel Thalamic Plasticity Channels dLGN Feature Preference During Visual Critical Period. <strong><em>Neuron</em></strong>. 2025. 113(9):1294-1296.', url: 'https://doi.org/10.1016/j.neuron.2025.04.001'}
+- {name: 'Chen, Wu et al, Transcriptional conservation and evolutionary divergence of cell types across mammalian hypothalamus development, Developmental Cell 2025_s', url: '/assets/pdf/Chen, Wu et al, Transcriptional conservation and evolutionary divergence of cell types across mammalian hypothalamus development, Developmental Cell 2025_s.pdf'}
+- {name: 'Fong, Kurrasch, The structural and functional complexity of the integrative hypothalamus, Science 2023', url: '/assets/pdf/Fong, Kurrasch, The structural and functional complexity of the integrative hypothalamus, Science 2023.pdf'}
+- {name: 'Loos and Yeo, The genetics of obesity, from discovery to biology, Nature Reviews Genetics 2022', url: '/assets/pdf/Loos and Yeo, The genetics of obesity, from discovery to biology, Nature Reviews Genetics 2022.pdf'}
+- {name: 'Stuber and Luscher, The neurobiology of overeating, Neuron 2025', url: '/assets/pdf/Stuber and Luscher, The neurobiology of overeating, Neuron 2025.pdf'}
+- {name: 'The hypothalamus review by Lowell', url: '/assets/pdf/The hypothalamus review by Lowell.pdf'}
+- {name: 'Zhuolei Jiao,Xiaohong Xu et al., nature neuroscience 2025 Projectome-based characterization of hypothalamic peptidergic neurons in male mice, Nature Neuroscience 2025', url: '/assets/pdf/Zhuolei Jiao,Xiaohong Xu et al., nature neuroscience 2025 Projectome-based characterization of hypothalamic peptidergic neurons in male mice, Nature Neuroscience 2025.pdf'}
 
 Neural Circuit Assembly:
-- {name: 'Zhou C, Gao X, <strong>Tan L*</strong>. Shaping Sight: Novel Thalamic Plasticity Channels dLGN Feature Preference During Visual Critical Period. <strong><em>Neuron</em></strong>. 2025. 113(9):1294-1296.', url: 'https://doi.org/10.1016/j.neuron.2025.04.001'}
+- {name: 'Heckman and Doe, Establishment and Maintenance of Neural Circuit Architechture, JN 2021', url: '/assets/pdf/Heckman and Doe, Establishment and Maintenance of Neural Circuit Architechture, JN 2021.pdf'}
+- {name: 'Kolodkin and Tessier-Lavigne, Mechanisms and Molecules of Neuronal Wiring, Cold Spring Harb Perspect Biol 2011', url: '/assets/pdf/Kolodkin and Tessier-Lavigne, Mechanisms and Molecules of Neuronal Wiring, Cold Spring Harb Perspect Biol 2011.pdf'}
+- {name: 'Sanes and Zipursky, Cell 2020 Synaptic Specificity,Recognition molecules,and assembly of neural circuits', url: '/assets/pdf/Sanes and Zipursky, Cell 2020 Synaptic Specificity,Recognition molecules,and assembly of neural circuits.pdf'}
+- {name: 'Sudhof, Towards an understanding of synapse formation, Neuron 2018', url: '/assets/pdf/Sudhof, Towards an understanding of synapse formation, Neuron 2018.pdf'}
+- {name: 'Tan Zipursky Cell 2015', url: '/assets/pdf/Tan Zipursky Cell 2015.pdf'}
+- {name: 'Three systems of circuit formation- assembly, updating and tuning', url: '/assets/pdf/Three systems of circuit formation- assembly, updating and tuning.pdf'}
+- {name: 'Yogev and Shen, Cellular and Molecular Mechanisms of Synaptic Specificity. Annual Review of Cell and Developmental Biology 2014', url: '/assets/pdf/Yogev and Shen, Cellular and Molecular Mechanisms of Synaptic Specificity. Annual Review of Cell and Developmental Biology 2014.pdf'}
 
 Neuropsychiatric Disorders:
-- {name: 'Zhou C, Gao X, <strong>Tan L*</strong>. Shaping Sight: Novel Thalamic Plasticity Channels dLGN Feature Preference During Visual Critical Period. <strong><em>Neuron</em></strong>. 2025. 113(9):1294-1296.', url: 'https://doi.org/10.1016/j.neuron.2025.04.001'}
+- {name: 'McClellan and King, An evolutionary perspective on complex neuropsychiatric disease, Neuron 2023', url: '/assets/pdf/McClellan and King, An evolutionary perspective on complex neuropsychiatric disease, Neuron 2023.pdf'}
+- {name: 'Paus and Giedd, Why do many psychiatric disorders emerge during adolescence, Nature Reviews Neuroscience 2008', url: '/assets/pdf/Paus and Giedd, Why do many psychiatric disorders emerge during adolescence, Nature Reviews Neuroscience 2008.pdf'}
 
 Visual System Development, plasticity and Organization:
-- {name: 'Zhou C, Gao X, <strong>Tan L*</strong>. Shaping Sight: Novel Thalamic Plasticity Channels dLGN Feature Preference During Visual Critical Period. <strong><em>Neuron</em></strong>. 2025. 113(9):1294-1296.', url: 'https://doi.org/10.1016/j.neuron.2025.04.001'}
+- {name: 'Arcaro and Livingstone, A Whole-Brain Topographic Ontology, annurev-neuro 2024', url: '/assets/pdf/Arcaro and Livingstone, A Whole-Brain Topographic Ontology, annurev-neuro 2024.pdf'}
+- {name: 'Cang and Feldheim, developmental mechanisms of topographic map formation and alignment, Annu Rev Neurosci 2013', url: '/assets/pdf/Cang and Feldheim, developmental mechanisms of topographic map formation and alignment, Annu Rev Neurosci 2013.pdf'}
+- {name: 'Cheng, Butrus, Tan et al., Cell 2022', url: '/assets/pdf/Cheng, Butrus, Tan et al., Cell 2022.pdf'}
+- {name: 'Espinosa and Stryker, Development and Plasticity of the Primary Visual Cortex, Neuron 2012', url: '/assets/pdf/Espinosa and Stryker, Development and Plasticity of the Primary Visual Cortex, Neuron 2012.pdf'}
+- {name: 'Kuhlman et al. A disinhibitory microcircuit initiates critical-period plasticity in the visual cortex_Nature 2013', url: '/assets/pdf/Kuhlman et al. A disinhibitory microcircuit initiates critical-period plasticity in the visual cortex_Nature 2013.pdf'}
+- {name: 'Seabrook et al., Architecture, Function, and Assembly of the Mouse Visual System, annurev-neuro 2017', url: '/assets/pdf/Seabrook et al., Architecture, Function, and Assembly of the Mouse Visual System, annurev-neuro 2017.pdf'}
+- {name: 'Zhou et al., Thalamic vs cortical plasticity, Neuron 2025', url: '/assets/pdf/Zhou et al., Thalamic vs cortical plasticity, Neuron 2025.pdf'}
