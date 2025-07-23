@@ -1,10 +1,26 @@
----
-layout: default
----
+<h3 class="fw-bold border-bottom pb-3 mb-5">Cortical Development</h3>
+{% for item in site.data.publications.Cortical Devekopment %}
+  <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+{% endfor %}
 
-<div class="row g-5 mb-5">
-  <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">{{ page.title }}</h3>
-    {{ content }}
-  </div>
+<h3 class="fw-bold border-bottom pb-3 mb-5 mt-5">Hypothalamus development and function</h3>
+{% for item in site.data.publications.Hypothalamus development and function %}
+  <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+{% endfor %}
+
+<h3 class="fw-bold border-bottom pb-3 mb-5 mt-5">Neural Circuit Assembly</h3>
+{% for item in site.data.publications.Neural Circuit Assembly %}
+  <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+{% endfor %}
+
+<h3 class="fw-bold border-bottom pb-3 mb-5 mt-5">Neuropsychiatric Disorders</h3>
+{% for item in site.data.publications.Neuropsychiatric Disorders %}
+  <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+{% endfor %}
+
+<h3 class="fw-bold border-bottom pb-3 mb-5 mt-5">Visual System Development, Plasticity and Organization</h3>
+{% for item in site.data.publications.Visual System Development, Plasticity and Organization %}
+  <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+{% endfor %}
+</div>
 </div>
