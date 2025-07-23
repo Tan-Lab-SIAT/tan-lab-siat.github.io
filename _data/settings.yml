@@ -3,7 +3,7 @@ menu:
 - {name: 'MEMBERS', url: '/people'}
 - {name: 'PUBLICATIONS', url: '/publications'}
 - {name: 'CV', url: '/cv'}
-- {name: 'STUDY FILES', url: 'post'}
+- {name: 'STUDY FILES', url: '/post'}
 - {name: 'CONTACT', url: '/contact'}
 
 people:
