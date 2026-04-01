@@ -132,6 +132,29 @@ layout: default
   {% endunless %}
 {% endfor %}
 
+<!-- Alumni Section -->
+<h3 class="fw-bold border-bottom pb-3 mb-5">Alumni</h3>
+{% assign alumni_by_type = site.data.settings.alumni | group_by: "type" %}
+{% assign alumniOrder = "Postdoctoral Scholars,Graduate Students,Research Staff" | split: "," %}
+{% for type in alumniOrder %}
+  {% assign group = alumni_by_type | where:"name", type | first %}
+  {% if group %}
+    <!-- Alumni 分组标题 -->
+    <div class="row mb-4">
+      <div class="col-12">
+        <h3 style="color: green; font-size: 2em; font-weight: normal;">{{ group.name }}</h3>
+      </div>
+    </div>
+    {% for person in group.items %}
+      <div class="mb-4">
+        <!-- 第一行：姓名 - title - 年份 -->
+        <p style="color: green; font-size: 1.5em; font-weight: normal;">{{ person.name }} , {{ person.title }} , {{ person.year }}</p>
+        <!-- 第二行：职位 - 去向 -->
+        <p style="color: black; font-size: small;">{{ person.position }} , {{ person.career }}</p>
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
 
 <div class="row g-5 mb-5">
   <div class="col-12 text-center">
@@ -158,26 +181,4 @@ layout: default
   </div>
 </div>
 
-<!-- Alumni Section -->
-<h3 class="fw-bold border-bottom pb-3 mb-5">Alumni</h3>
-{% assign alumni_by_type = site.data.settings.alumni | group_by: "type" %}
-{% assign alumniOrder = "Postdoctoral Scholars,Graduate Students,Research Staff" | split: "," %}
-{% for type in alumniOrder %}
-  {% assign group = alumni_by_type | where:"name", type | first %}
-  {% if group %}
-    <!-- Alumni 分组标题 -->
-    <div class="row mb-4">
-      <div class="col-12">
-        <h3 style="color: green; font-size: 2em; font-weight: normal;">{{ group.name }}</h3>
-      </div>
-    </div>
-    {% for person in group.items %}
-      <div class="mb-4">
-        <!-- 第一行：姓名 - title - 年份 -->
-        <p style="color: green; font-size: 1.5em; font-weight: normal;">{{ person.name }} , {{ person.title }} , {{ person.year }}</p>
-        <!-- 第二行：职位 - 去向 -->
-        <p style="color: black; font-size: small;">{{ person.position }} , {{ person.career }}</p>
-      </div>
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+
