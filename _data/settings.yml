@@ -7,7 +7,13 @@ menu:
 - {name: 'CONTACT', url: '/contact'}
 
 people:
-- {name: 'Liming Tan', title: 'Professor',type: 'Principle Investigator', department: 'Brain Insitute', institution: 'Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences', email: 'lm.tan@siat.ac.cn', image: 'assets/img/limingtan_half.png',description: 'Genetics, Plasticity and Vision',googleScholar: "https://scholar.google.com/citations?user=mGhI_w4AAAAJ&hl=en",orcid: "https://orcid.org/0000-0002-7034-0321",neurotree: "https://neurotree.org/beta/tree.php?pid=746386" }
+- {name: 'Liming Tan', title: 'Professor',type: 'Principle Investigator', department: 'Brain Insitute', institution: 'Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences', email: 'lm.tan@siat.ac.cn', image: 'assets/img/limingtan_half.png',description: '研究方向：脑功能环路发育的多维协同调控机制：解析遗传与经验协同调控脑功能环路发育的机制，探索脑-体协同干预发育性脑疾病的效应和机制。
+代表性成果：
+1) 揭示先天遗传调控环路组装的分子密码，验证诺奖得主Sperry的“化学亲和假说”（Cell 2015, Neuron 2018)；
+2) 证实后天经验深刻重构环路使其成熟，打破“经验仅微调突触”认知局限 (Neuron 2020, Current Biology 2021, Journal of Neuroscience 2022)；
+3) 揭示经验编程细胞身份指导环路成熟，拓展“遗传决定细胞类型”的理论边界 (Cell 2022)；
+4) 发现外周骨源激素对环路输出的“准许”门控，补充“突触中心论”，为脑-体协同调控脑功能提供新切入点 (Neuron 2026)；
+5) 提出了视觉环路发育可塑性的新理论框架 (Neuron 2025, Invited Preview)；以及“晚发育则更可塑”的多模态整合皮层发育新模型 (Journal of Neuroscience 2026, Review Article)。',googleScholar: "https://scholar.google.com/citations?user=mGhI_w4AAAAJ&hl=en",orcid: "https://orcid.org/0000-0002-7034-0321",neurotree: "https://neurotree.org/beta/tree.php?pid=746386" }
 - {name: 'Chunyun Jia', title: 'Research Assistant',type: 'Research Staff', department: 'Brain Insitute', institution: 'Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences',  email: 'cy.jia1@siat.ac.cn', image: 'assets/img/jiachunyun.jpg', description: 'Neuronal tracing, Neuroplasticity Research'}
 - {name: 'Xiang Gao', title: 'Assistant Professor',type: 'Principle Investigator', department: 'Brain Insitute', institution: 'Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences',  email: 'x.gao3@siat.ac.cn', image: 'assets/img/gaoxiang.jpg', description: 'Single cell genomics, Epigenetics',googleScholar: "https://orcid.org/0000-0003-3882-2598",orcid: "https://orcid.org/0000-0003-3882-2598",neurotree: "https://orcid.org/0000-0003-3882-2598" }
 - {name: 'Jing Zhu', title: 'Postdoc',type: 'Postdoctoral Scholars', department: 'Brain Insitute', institution: 'Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences',  email: 'j.zhu2@siat.ac.cn', image: 'assets/img/zhujing.jpg', description: 'Spatial transcriptomics and Neurobehavioral Research'}
