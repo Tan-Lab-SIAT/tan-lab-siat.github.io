@@ -1,18 +1,15 @@
-<h3 class="fw-bold border-bottom pb-3 mb-5">
-  {% if page.title == "publications" %}
-    All Publications
-  {% else %}
-   Featured Publications
-  {% endif %}
-</h3>
-    {% if page.title == "publications" %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
-  </div>
+<h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+
+<div class="mb-4">
+  <h4 class="fw-bold">Research Articles</h4>
+  {% for item in site.data.publications["Research Articles"] %}
+    <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+  {% endfor %}
+</div>
+
+<div class="mb-4">
+  <h4 class="fw-bold">Reviews / Invited Commentaries</h4>
+  {% for item in site.data.publications["Reviews/Invited Commentaries"] %}
+    <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+  {% endfor %}
 </div>
