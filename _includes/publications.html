@@ -13,3 +13,10 @@
     <p><a href="{{ item.url }}">{{ item.name }}</a></p>
   {% endfor %}
 </div>
+
+<div class="mb-4">
+  <h4 class="fw-bold">Coauthored Papers</h4>
+  {% for item in site.data.publications["Coauthored Papers"] %}
+    <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+  {% endfor %}
+</div>
