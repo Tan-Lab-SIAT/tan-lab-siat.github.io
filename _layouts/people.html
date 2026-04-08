@@ -148,7 +148,7 @@ layout: default
     {% for person in group.items %}
       <div class="mb-4">
         <!-- 第一行：姓名 - title - 年份 -->
-        <p style="color: black; font-size: 1.5em; font-weight: normal;">{{ person.name }},former position: {{ person.title }};current position: {{ person.position }},{{ person.career }}-{{ person.description }},since {{ person.year }}</p>
+        <p style="color: black; font-size: 1.5em; font-weight: normal;">{{ person.name }}, Former position: {{ person.title }}; Current position: {{ person.position }}, {{ person.career }}-{{ person.description }}, since {{ person.year }}</p>
       </div>
     {% endfor %}
   {% endif %}
